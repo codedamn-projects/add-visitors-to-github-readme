@@ -1,5 +1,5 @@
 {
-  "name": "avtgr-codedamn-starterfile",
+  "name": "add-visitors-to-github-readme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,9 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tanishq-singh-2301/avtgr-codedamn-starterfile.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tanishq-singh-2301/avtgr-codedamn-starterfile/issues"
-  },
-  "homepage": "https://github.com/tanishq-singh-2301/avtgr-codedamn-starterfile#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
